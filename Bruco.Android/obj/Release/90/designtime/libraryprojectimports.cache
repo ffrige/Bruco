@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\10\jl\bin\classes.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\12\jl\bin\classes.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\5\jl\android.arch.core.common.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\6\jl\bin\classes.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\7\jl\android.arch.lifecycle.common.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\8\jl\bin\classes.jar</Jar>
+    <Jar>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\9\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\8\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\10\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\11\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\90\lp\6\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\90\lp\8\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\90\lp\9\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\90\lp\10\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\90\lp\11\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\8.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\10.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco.Android\obj\Release\90\lp\11.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

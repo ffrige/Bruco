@@ -1,0 +1,12 @@
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\bin\Debug\netstandard2.0\Bruco.deps.json
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\bin\Debug\netstandard2.0\Bruco.dll
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\bin\Debug\netstandard2.0\Bruco.pdb
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.csprojAssemblyReference.cache
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.csproj.CoreCompileInputs.cache
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.AssemblyInfoInputs.cache
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.AssemblyInfo.cs
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.dll
+D:\Documents\Private\Bruco\App\Bruco\Bruco\Bruco\obj\Debug\netstandard2.0\Bruco.pdb

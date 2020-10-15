@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Bruco"
+             xmlns:tt="clr-namespace:TouchTracking"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             x:Class="Bruco.MainPage">
+
+
+    <ContentPage.Content>
+
+        <Grid ColumnDefinitions="4*,*"
+              Margin="5"
+              HorizontalOptions="FillAndExpand"
+              VerticalOptions="FillAndExpand">
+
+            <Frame Grid.Column="0"
+                   CornerRadius="5"
+                   BorderColor="Gray"
+                   HasShadow="True"
+                   Padding="5"
+                   HorizontalOptions="Fill"
+                   VerticalOptions="Fill">
+
+                <MediaElement Source="http://192.168.4.1/" ShowsPlaybackControls="False" VerticalOptions="FillAndExpand"/>
+            </Frame>
+
+            <Frame Grid.Column="1"
+                   CornerRadius="5"
+                   BorderColor="Gray"
+                   HasShadow="True"
+                   Padding="5"
+                   HorizontalOptions="Fill"
+                   VerticalOptions="Fill">
+
+                <StackLayout IsEnabled="{Binding Path=UserIsService}">
+                    <ImageButton Source="bruco.jpg" Aspect="AspectFit" HorizontalOptions="Center" Command="{Binding ConnectCommand}"/>
+                    <BoxView Color="Gray" HeightRequest="2" HorizontalOptions="Fill" />
+                    <Label Text="{Binding Path=BT_Status}" FontSize="Micro" HorizontalOptions="CenterAndExpand"/>
+                    <BoxView Color="White" VerticalOptions="FillAndExpand" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+                        <Label Text="{Binding Path=Joy_X_str, StringFormat='X = {0}'}" HorizontalOptions="Center" />
+                        <Label Text="{Binding Path=Joy_Y_str, StringFormat='Y = {0}'}" HorizontalOptions="Center" />
+                    </StackLayout>
+                    <BoxView Color="Gray" HeightRequest="2" HorizontalOptions="Fill" />
+                    <Grid VerticalOptions="End">
+                        <skia:SKCanvasView x:Name="canvasView" HeightRequest="{Binding TargetHeight}"
+                        PaintSurface="OnCanvasViewPaintSurface"/>
+                        <Grid.Effects>
+                            <tt:TouchEffect Capture="True"
+                        TouchAction="OnTouchEffectAction" />
+                        </Grid.Effects>
+                    </Grid>
+                </StackLayout>
+
+            </Frame>
+
+        </Grid>
+    </ContentPage.Content>
+
+</ContentPage>
